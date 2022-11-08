@@ -1,0 +1,4 @@
+DTP - dynamic trunking protocol
+VTP - VLAN trunk protocol
+CDP - Cisco Discovery Protocol is a proprietary protocol that notifies another CISCO device of the type of hardware and software version
+and active interfaces on the device
